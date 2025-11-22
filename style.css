@@ -5,15 +5,15 @@
 }
 
 :root {
-  --color-primary: #2c7a7b;
-  --color-primary-dark: #234e52;
-  --color-primary-light: #4fd1c5;
-  --color-accent: #ed8936;
-  --color-text: #2d3748;
-  --color-text-light: #4a5568;
-  --color-background: #ffffff;
-  --color-background-alt: #f7fafc;
-  --color-border: #e2e8f0;
+  --color-primary: #EFBF04;          /* Deep charcoal for main elements */
+  --color-primary-dark: #0d0d0d;     /* Almost black for shadows, headers */
+  --color-primary-light: #540754;    /* Medium gray for subtle highlights */
+  --color-accent: #c69e30;           /* Soft gold for buttons, badges, accents */
+  --color-text: #333333;             /* Dark gray text */
+  --color-text-light: #777777;       /* Light gray for secondary text */
+  --color-background: #f8f8f8;       /* Light gray background */
+  --color-background-alt: #ffffff;   /* White for cards/sections */
+  --color-border: #e0e0e0;           /* Subtle borders */
   --spacing-unit: 8px;
   --max-width: 1200px;
   --transition: all 0.3s ease;
